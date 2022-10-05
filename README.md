@@ -1,7 +1,7 @@
 # MATLAB&reg; and Simulink&reg; ROS&trade; Tutorials
 
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=https://github.com/mathworks-robotics/matlab-and-simulink-ros-tutorials&file=ROSBasicsIndex.mlx) [![View MATLAB® and Simulink® ROS™ Tutorials on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/118630-matlab-and-simulink-ros-tutorials)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks-robotics/matlab-and-simulink-ros-tutorials&file=ROSBasicsIndex.mlx) [![View MATLAB® and Simulink® ROS™ Tutorials on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/118630-matlab-and-simulink-ros-tutorials)
 
 
 This is a set of interactive online tutorials teaching the basics of using ROS (Robot Operating System) to develop and program robots. Open these tutorials in either MATLAB or MATLAB Online to learn more about ROS, and get hands-on experience interacting with robots powered by ROS.
@@ -40,7 +40,7 @@ Requires MATLAB release R2022a or newer
 
 ## Getting Started 
 
-- [Click to open ROSBasicsIndex.mlx in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=https://github.com/mathworks-robotics/matlab-and-simulink-ros-tutorials&file=ROSBasicsIndex.mlx)
+- [Click to open ROSBasicsIndex.mlx in MATLAB Online](https://matlab.mathworks.com/open/github/v1?repo=mathworks-robotics/matlab-and-simulink-ros-tutorials&file=ROSBasicsIndex.mlx)
 
     or
 
