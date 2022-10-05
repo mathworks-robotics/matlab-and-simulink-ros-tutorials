@@ -1,7 +1,7 @@
 # MATLAB&reg; and Simulink&reg; ROS&trade; Tutorials
 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
+[![View MATLAB® and Simulink® ROS™ Tutorials on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/118630-matlab-and-simulink-ros-tutorials)
 
 
 This is a set of interactive online tutorials teaching the basics of using ROS (Robot Operating System) to develop and program robots. Open these tutorials in either MATLAB or MATLAB Online to learn more about ROS, and get hands-on experience interacting with robots powered by ROS.
